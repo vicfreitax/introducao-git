@@ -1,2 +1,6 @@
 oi..
 tudo bem?
+
+agora estamos em uma branch nova ->
+
+git checkout -b dev
